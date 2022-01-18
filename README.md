@@ -1,4 +1,6 @@
-# Feedback App 📄✍️
+# Feedback App 📄✍️       
+
+![Feedback App](banner.png)
 
 This Feedback app is the one of the my practices to enchance my knowledge in Svelte Framework. This Feedback App can receive feedback and rating from client and display it immediately after submit. However, it is only work in client side, which is not integration with any backend solution.
 
